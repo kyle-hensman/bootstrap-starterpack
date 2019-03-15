@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "This is a simple bootstrap starterpack created using gulp and contains bootstrap, fontawesome, scss for styling.",
   "scripts": {
+    "start": "gulp watch",
     "gulp": "gulp"
   },
   "keywords": [
