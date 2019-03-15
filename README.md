@@ -1,6 +1,6 @@
 # [Bootstrap Staterpack](https://github.com/kyle-hensman/bootstrap-starterpack)
 
-A simple starterpack built using gulp[Gulp](https://gulpjs.com/), created by [Kyle Hensman](https://kyle-hensman.firebaseapp.com/).
+A simple starterpack built using [Gulp](https://gulpjs.com/), created by [Kyle Hensman](https://kyle-hensman.firebaseapp.com/).
 
 ## Download and Installation
 
